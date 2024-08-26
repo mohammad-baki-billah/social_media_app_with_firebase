@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "9095115288",
+    "project_id": "minimal-socil-app",
+    "storage_bucket": "minimal-socil-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9095115288:android:073dec77e9d9415bb1096d",
+        "android_client_info": {
+          "package_name": "com.example.socia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNoJcWZQoxuGlrZ6hr4G9VxfWNPxIse9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9095115288:android:9a1398b85f4f18d9b1096d",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app_with_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNoJcWZQoxuGlrZ6hr4G9VxfWNPxIse9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

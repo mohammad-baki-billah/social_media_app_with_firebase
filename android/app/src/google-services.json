@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014089483841",
+    "project_id": "fir-confige-6bdce",
+    "storage_bucket": "fir-confige-6bdce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014089483841:android:ef47e6195487f7108ce8c0",
+        "android_client_info": {
+          "package_name": "com.example.flutt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT7t3luoP4nsTYrOVf9WrLeR1IsUcsqlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
